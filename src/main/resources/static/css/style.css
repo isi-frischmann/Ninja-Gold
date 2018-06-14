@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.property {
+	border: 2px black solid;
+	display: inline-block;
+	background-color: lightblue;
+	margin: 30px;
+}
+
+.activities {
+	border: 2px black solid;
+	display: inline-block;
+	margin: 30px;
+	background-color: white;
+	width: 600px;
+	heigth: 500px;
+	
+}
+
+.wrapper {
+	width: 1000px;
+	heigth: 1000px;
+	background-color: lightgrey;
+	margin: 30px;
+}
+
+.earn {
+	color: green;
+}
+
+.lose {
+	color: red;
+}
